@@ -1,0 +1,35 @@
+{
+  "name": "subcollection",
+  "version": "1.0.0",
+  "description": "A collection of scripts to send Core Web Vital data to GA4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dainemawer/subcollection.git"
+  },
+  "keywords": [
+    "ga4",
+    "web-vitals",
+    "google",
+    "performance",
+    "analytics",
+    "bigquery",
+    "datastudio"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dainemawer/subcollection/issues"
+  },
+  "homepage": "https://github.com/dainemawer/subcollection#readme",
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "dependencies": {
+    "web-vitals": "^2.1.4"
+  }
+}
